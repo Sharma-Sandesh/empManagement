@@ -11,7 +11,15 @@ gcc -o empManagement linkedList_v2.c -lws2_32
 No -lws2_32 flag needed on Linux Enviroment.
 
 input parameters.
+
+On Linux
 ./executable_name empInfo.bin
+
+On windows
+executable_name empInfo.bin
+
+executable_name -> empManagement if compiled with above instructions.
+Can be changed to your desire.
 
 empInfo.bin contains employee details.
 output.bin contains all the output
