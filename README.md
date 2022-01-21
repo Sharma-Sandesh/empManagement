@@ -8,7 +8,7 @@ compilation
 On windows.
 gcc -o empManagement linkedList_v2.c -lws2_32 
 
-Now -lws2_32 flag needed on Linux Enviroment.
+No -lws2_32 flag needed on Linux Enviroment.
 
 input parameters.
 ./executable_name empInfo.bin
