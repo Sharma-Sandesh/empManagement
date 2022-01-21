@@ -27,3 +27,7 @@ log.bin contains all the logs for a session (can be read over a network)
 
 
 goto localhost:8080 to read all the logs over a TCP network
+
+I have made some function calls in the main function.
+Please change it to your liking, tweak it a lil bit, Improve on it if you'd like.
+Just play around
